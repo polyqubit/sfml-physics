@@ -4,3 +4,5 @@ cmake --build build --config Release
 ucrt
 
 rename ALL instances of project name!
+
+make sure to add cpp files to add-executable command(cmake)
