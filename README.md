@@ -1,3 +1,3 @@
-https://bkaradzic.github.io/bgfx/build.html
-https://dev.to/pperon/hello-bgfx-4dka
-http://wiki.libsdl.org/SDL2/Introduction
+https://bkaradzic.github.io/bgfx/build.html <br>
+https://dev.to/pperon/hello-bgfx-4dka <br>
+http://wiki.libsdl.org/SDL2/Introduction <br>
