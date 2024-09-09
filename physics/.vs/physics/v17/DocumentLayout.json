@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\main\\Desktop\\sfml-physics\\physics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6EF1EA-AE8D-4EEE-97D8-F0AFB342E6CF}|physics.vcxproj|C:\\Users\\main\\Desktop\\sfml-physics\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\main\\Desktop\\sfml-physics\\app.cpp",
+              "RelativeDocumentMoniker": "..\\app.cpp",
+              "ToolTip": "C:\\Users\\main\\Desktop\\sfml-physics\\app.cpp",
+              "RelativeToolTip": "..\\app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T18:46:30.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
