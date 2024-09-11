@@ -6,13 +6,13 @@
       "AbsoluteMoniker": "D:0:0:{2B6EF1EA-AE8D-4EEE-97D8-F0AFB342E6CF}|physics.vcxproj|C:\\Users\\main\\Desktop\\sfml-physics\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6EF1EA-AE8D-4EEE-97D8-F0AFB342E6CF}|physics.vcxproj|C:\\USERS\\MAIN\\DESKTOP\\SFML-PHYSICS\\BX\\INCLUDE\\BX\\BX.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6EF1EA-AE8D-4EEE-97D8-F0AFB342E6CF}|physics.vcxproj|C:\\USERS\\MAIN\\DESKTOP\\SFML-PHYSICS\\BX\\INCLUDE\\BX\\CONFIG.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B6EF1EA-AE8D-4EEE-97D8-F0AFB342E6CF}|physics.vcxproj|C:\\USERS\\MAIN\\DESKTOP\\SFML-PHYSICS\\BX\\INCLUDE\\BX\\PLATFORM.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\bx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "..\\bx\\include\\bx\\config.h",
               "ToolTip": "C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\config.h",
               "RelativeToolTip": "..\\bx\\include\\bx\\config.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-11T18:39:48.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "platform.h",
               "DocumentMoniker": "C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\platform.h",
               "RelativeDocumentMoniker": "..\\bx\\include\\bx\\platform.h",
               "ToolTip": "C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\platform.h",
               "RelativeToolTip": "..\\bx\\include\\bx\\platform.h",
-              "ViewState": "AgIAAK0BAAAAAAAAAAAkwLsBAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAMMBAAAAAAAAAAD4v9IBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-11T18:38:34.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "bx.h",
               "DocumentMoniker": "C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\bx.h",
               "RelativeDocumentMoniker": "..\\bx\\include\\bx\\bx.h",
               "ToolTip": "C:\\Users\\main\\Desktop\\sfml-physics\\bx\\include\\bx\\bx.h",
               "RelativeToolTip": "..\\bx\\include\\bx\\bx.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-11T18:37:15.998Z",
               "EditorCaption": ""
@@ -71,7 +71,7 @@
               "RelativeDocumentMoniker": "..\\app.cpp",
               "ToolTip": "C:\\Users\\main\\Desktop\\sfml-physics\\app.cpp",
               "RelativeToolTip": "..\\app.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-09T18:46:30.367Z",
               "EditorCaption": ""

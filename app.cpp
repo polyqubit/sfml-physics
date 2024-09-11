@@ -1,7 +1,7 @@
 #include <iostream>
-//#include <bx/bx.h>
-//#include <bgfx/bgfx.h>
-//#include <bgfx/platform.h>
+#include <bx/bx.h>
+#include <bgfx/bgfx.h>
+#include <bgfx/platform.h>
 #include <SDL2/SDL.h>
 
 const int SCREEN_WIDTH = 680;
