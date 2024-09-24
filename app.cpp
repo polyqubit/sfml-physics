@@ -30,10 +30,28 @@ int main(int argc, char** argv)
 
         screensurface = SDL_GetWindowSurface(window);
 
-        SDL_FillRect(screensurface, nullptr, SDL_MapRGB(screensurface->format, 0xFF, 0xEE, 0xEE));
+        SDL_FillRect(screensurface, nullptr, SDL_MapRGB(screensurface->format, 0xFF, 0xDE, 0xDE));
 
         SDL_UpdateWindowSurface(window);
-    
+
+        // bgfx init
+        bgfx::PlatformData pdata;
+        //pdata.ndt = nullptr;
+        ////pdata.nwh = window;
+        //bgfx::setPlatformData(pdata);
+        //bgfx::renderFrame();
+        //bgfx::Init init;
+        //init.resolution.width = SCREEN_WIDTH;
+        //init.resolution.height = SCREEN_HEIGHT;
+        //init.resolution.reset = BGFX_RESET_VSYNC;
+        //if (!bgfx::init(init)) {
+        //    SDL_DestroyWindow(window);
+        //    SDL_Quit();
+        //    return 0;
+        //}
+        //bgfx::setViewClear(0, BGFX_CLEAR_COLOR | BGFX_CLEAR_DEPTH, 0xFFCCFFFF);
+        //bgfx::setViewRect(0, 0, 0, bgfx::BackbufferRatio::Equal);
+
         SDL_Event e;
         bool quit = false;
         while (!quit)
